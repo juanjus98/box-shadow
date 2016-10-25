@@ -105,4 +105,6 @@ Esto nos quedía de la siguiente manera:
 }
 ```
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+También hay una técnica para generar sombras con imagenes pero ese es otro tema, ademas ya es pasado de moda.
+
+Saludos;
