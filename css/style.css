@@ -1,0 +1,42 @@
+/**
+ * Styles box-shadow
+ */
+.box-shadow {
+	height: 160px;
+	width: 280px;
+	margin: 20px;
+	border: 1px solid #ccc;
+
+	line-height: 160px;
+	white-space: nowrap;
+	text-align: center;
+
+	display: inline-block;
+}
+
+.box-shadow span {
+	font-family: 'Arial';
+	font-weight: 700;
+	font-size: 40px;
+	color: #ccc;
+}
+
+.top {
+	box-shadow: 0 -5px 5px -5px #666;
+}
+
+.right {
+	box-shadow: 5px 0 5px -5px #666;
+}
+
+.bottom {
+	box-shadow: 0 5px 5px -5px #666;
+}
+
+.left {
+	box-shadow: -5px 0 5px -5px #666;
+}
+
+.all {
+	box-shadow: 0 0 5px #666;
+}
