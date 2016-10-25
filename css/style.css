@@ -1,7 +1,7 @@
 /**
  * Styles box-shadow
  */
-.box-shadow {
+.elem-shadow {
 	height: 160px;
 	width: 280px;
 	margin: 20px;
@@ -14,7 +14,7 @@
 	display: inline-block;
 }
 
-.box-shadow span {
+.elem-shadow span {
 	font-family: 'Arial';
 	font-weight: 700;
 	font-size: 40px;
